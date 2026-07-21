@@ -131,8 +131,8 @@ Two supporting classes handle persistence:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-   cd <your-repo-name>
+   git clone https://github.com/<nooraafra1704-hue>/<CODSOFT>.git
+   cd <CODSOFT>
    ```
 
 2. **Check your Python version** (3.12+ recommended, no external dependencies to install)
